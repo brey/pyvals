@@ -123,3 +123,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# the local Notebook folder
+Notebooks/* 
+
+#ignore .jupyter chekpoints folder
+.ipynb_checkpoints
+
+# mac files
+*.DS_Store
